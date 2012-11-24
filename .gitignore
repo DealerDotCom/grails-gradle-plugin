@@ -6,4 +6,3 @@ bin/
 *.ipr
 *.iws
 out
-gradle.properties
